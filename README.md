@@ -11,9 +11,10 @@
 
 ## 🗂️ Contents
 
-| 분류 | 내용 | 날짜 |
-|------|------| ---- |
-| BE | [WebClient로 서버 간 통신을 해보자!](https://github.com/HYE77/TodayILearned/blob/main/BE/WebClient%EB%A1%9C%20%EC%84%9C%EB%B2%84%20%EA%B0%84%20%ED%86%B5%EC%8B%A0%EC%9D%84%20%ED%95%B4%EB%B3%B4%EC%9E%90!.md) | 26.02.10  |
-| BE | [영속성 컨텍스트와 EntityManager](https://github.com/HYE77/TodayILearned/blob/main/BE/%EC%98%81%EC%86%8D%EC%84%B1%20%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8%EC%99%80%20EntityManager.md) | 26.02.12 |
+| 분류 | 내용 | 날짜 | 마지막 수정 |
+|------|------| ---- | ----- |
+| BE | [WebClient로 서버 간 통신을 해보자!](https://github.com/HYE77/TodayILearned/blob/main/BE/WebClient%EB%A1%9C%20%EC%84%9C%EB%B2%84%20%EA%B0%84%20%ED%86%B5%EC%8B%A0%EC%9D%84%20%ED%95%B4%EB%B3%B4%EC%9E%90!.md) | 26.02.10  | |
+| BE | [영속성 컨텍스트와 EntityManager](https://github.com/HYE77/TodayILearned/blob/main/BE/%EC%98%81%EC%86%8D%EC%84%B1%20%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8%EC%99%80%20EntityManager.md) | 26.02.12 | |
+| DS | [트라이](https://github.com/HYE77/TodayILearned/blob/main/DS/%ED%8A%B8%EB%9D%BC%EC%9D%B4.md) | 26.02.19 | |
 
 
