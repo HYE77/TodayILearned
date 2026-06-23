@@ -1,6 +1,6 @@
 <aside>
 
-Spring의 핵심 개념을 이야기할 때 가장 많이 등장하는 개념이 **IoC(Inversion of Control)**, **DI(Dependency Injection)**, **AOP(Aspect-Oriented Programming)** 입니다.
+> Spring의 핵심 개념을 이야기할 때 가장 많이 등장하는 개념이 **IoC(Inversion of Control)**, **DI(Dependency Injection)**, **AOP(Aspect-Oriented Programming)** 입니다.
 
 </aside>
 
