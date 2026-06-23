@@ -18,5 +18,6 @@
 | DS | [트라이](https://github.com/HYE77/TodayILearned/blob/main/DS/%ED%8A%B8%EB%9D%BC%EC%9D%B4.md) | 26.02.19 | |
 | DS | [세그먼트 트리](https://github.com/HYE77/TodayILearned/blob/main/DS/%EC%84%B8%EA%B7%B8%EB%A8%BC%ED%8A%B8%ED%8A%B8%EB%A6%AC.md) | 26.02.19 | |
 | BE | [Spring 핵심 개념 (1) DI, AOP, IoC](https://github.com/HYE77/TodayILearned/blob/main/BE/Spring%20%ED%95%B5%EC%8B%AC%20%EA%B0%9C%EB%85%90%20(1)%20DI%2C%20AOP%2C%20IoC.md) | 26.06.23 | |
+| BE | [Spring 핵심 개념 (2) bean이란?](https://github.com/HYE77/TodayILearned/blob/main/BE/Spring%20%ED%95%B5%EC%8B%AC%20%EA%B0%9C%EB%85%90%20(2)%20bean%EC%9D%B4%EB%9E%80%3F.md) | 26.06.23 | |
 
 
